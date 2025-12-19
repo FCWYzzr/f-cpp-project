@@ -8,7 +8,7 @@
 
 1. 克隆仓库：
    ```sh
-   git clone --recurse-submodules https://github.com/FCWYzzr/f-cpp-project.git
+   git clone https://github.com/FCWYzzr/f-cpp-project.git
    ```
 2. 进入项目目录：
    ```sh

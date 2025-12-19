@@ -1,9 +1,8 @@
 cmake_minimum_required(VERSION 4.1)
 project(f-cpp-project)
-include(3rdparty/f-lib/cmake/f.cmake)
+include(cmake/f.cmake)
 
+# configure 3rd party modules here
 
-
-add_subdirectory(3rdparty/f-lib)
-
+# configure artifacts here
 add_subdirectory(modules/project)
